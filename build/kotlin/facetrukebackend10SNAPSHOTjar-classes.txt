@@ -1,0 +1,1 @@
+/Users/alan.junior/estudo/kotlin/facetruke-backend/build/classes/kotlin/main/MainKt.class
